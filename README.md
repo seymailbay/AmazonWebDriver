@@ -6,7 +6,7 @@ This repo consists of test scenarios performed on "Amazon.com.tr"
 
     
     
-    ![test](images/test.png)
+    ![test](images/test.PNG)
 
     
     
